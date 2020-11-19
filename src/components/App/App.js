@@ -14,7 +14,7 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route path="/" exact>
+        <Route path="/*">
           <Link id="employees-link" to="/employees">
             <h1>Go To Employees</h1>
           </Link>
