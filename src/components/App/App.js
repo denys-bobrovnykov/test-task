@@ -19,7 +19,7 @@ function App() {
             <h1>Go To Employees</h1>
           </Link>
         </Route>
-        <Route path="/employees">
+        <Route path="/employees" exact>
           <main className="App">
             <Employees />
             <EmployeesBirthday />
