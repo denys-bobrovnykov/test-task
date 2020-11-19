@@ -11,7 +11,7 @@ export const EmployeesBirthday = () => {
     return months.length > 0 ? (
       months.map((el) => <BirthdayMonth key={el} month={el} />)
     ) : (
-      <h3>No selected employees</h3>
+      <h3 className="empty-title">No selected employees</h3>
     );
   };
   // Select all months which are in selected state

@@ -4,11 +4,11 @@ body {
 }
 main {
   display: flex;
+  justify-content: space-between;
   min-width: 600px;
 }
 .container {
   box-shadow: inset;
-  padding: 20px;
 }
 a {
   position: absolute;
