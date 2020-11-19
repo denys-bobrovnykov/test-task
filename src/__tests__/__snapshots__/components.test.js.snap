@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App tests App rendering home page 1`] = `
+<a
+  href="/employees"
+  id="employees-link"
+  onClick={[Function]}
+>
+  <h1>
+    Go To Employees
+  </h1>
+</a>
+`;

@@ -1,0 +1,16 @@
+.Row {
+  align-content: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 20px;
+  min-width: 200px;
+
+  h3 {
+    width: 100%;
+  }
+
+  ul {
+    padding: 0;
+    width: 100%;
+  }
+}
