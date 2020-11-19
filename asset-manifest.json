@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/denys-bobrovnykov/test-task/static/css/main.5967b84f.chunk.css",
-    "main.js": "/denys-bobrovnykov/test-task/static/js/main.8b5edf10.chunk.js",
-    "main.js.map": "/denys-bobrovnykov/test-task/static/js/main.8b5edf10.chunk.js.map",
-    "runtime-main.js": "/denys-bobrovnykov/test-task/static/js/runtime-main.d13b21db.js",
-    "runtime-main.js.map": "/denys-bobrovnykov/test-task/static/js/runtime-main.d13b21db.js.map",
-    "static/js/2.5a182977.chunk.js": "/denys-bobrovnykov/test-task/static/js/2.5a182977.chunk.js",
-    "static/js/2.5a182977.chunk.js.map": "/denys-bobrovnykov/test-task/static/js/2.5a182977.chunk.js.map",
-    "static/js/3.41fef081.chunk.js": "/denys-bobrovnykov/test-task/static/js/3.41fef081.chunk.js",
-    "static/js/3.41fef081.chunk.js.map": "/denys-bobrovnykov/test-task/static/js/3.41fef081.chunk.js.map",
-    "index.html": "/denys-bobrovnykov/test-task/index.html",
-    "static/css/main.5967b84f.chunk.css.map": "/denys-bobrovnykov/test-task/static/css/main.5967b84f.chunk.css.map",
-    "static/js/2.5a182977.chunk.js.LICENSE.txt": "/denys-bobrovnykov/test-task/static/js/2.5a182977.chunk.js.LICENSE.txt"
+    "main.css": "/denys-bobrovnykov/static/css/main.5967b84f.chunk.css",
+    "main.js": "/denys-bobrovnykov/static/js/main.8b5edf10.chunk.js",
+    "main.js.map": "/denys-bobrovnykov/static/js/main.8b5edf10.chunk.js.map",
+    "runtime-main.js": "/denys-bobrovnykov/static/js/runtime-main.5010cb6a.js",
+    "runtime-main.js.map": "/denys-bobrovnykov/static/js/runtime-main.5010cb6a.js.map",
+    "static/js/2.5a182977.chunk.js": "/denys-bobrovnykov/static/js/2.5a182977.chunk.js",
+    "static/js/2.5a182977.chunk.js.map": "/denys-bobrovnykov/static/js/2.5a182977.chunk.js.map",
+    "static/js/3.41fef081.chunk.js": "/denys-bobrovnykov/static/js/3.41fef081.chunk.js",
+    "static/js/3.41fef081.chunk.js.map": "/denys-bobrovnykov/static/js/3.41fef081.chunk.js.map",
+    "index.html": "/denys-bobrovnykov/index.html",
+    "static/css/main.5967b84f.chunk.css.map": "/denys-bobrovnykov/static/css/main.5967b84f.chunk.css.map",
+    "static/js/2.5a182977.chunk.js.LICENSE.txt": "/denys-bobrovnykov/static/js/2.5a182977.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d13b21db.js",
+    "static/js/runtime-main.5010cb6a.js",
     "static/js/2.5a182977.chunk.js",
     "static/css/main.5967b84f.chunk.css",
     "static/js/main.8b5edf10.chunk.js"
