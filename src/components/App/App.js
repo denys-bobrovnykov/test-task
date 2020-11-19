@@ -14,12 +14,12 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route path="/*">
-          <Link id="employees-link" to="/employees">
+        <Route path="/test-task" exact>
+          <Link id="employees-link" to="/test-task/employees">
             <h1>Go To Employees</h1>
           </Link>
         </Route>
-        <Route path="/employees" exact>
+        <Route path="/test-task/employees">
           <main className="App">
             <Employees />
             <EmployeesBirthday />
