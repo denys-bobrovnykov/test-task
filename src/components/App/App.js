@@ -14,12 +14,12 @@ function App() {
   return (
     <HashRouter>
       <Switch>
-        <Route path="/test-task" exact>
-          <Link id="employees-link" to="/test-task/employees">
+        <Route path="/" exact>
+          <Link id="employees-link" to="/employees">
             <h1>Go To Employees</h1>
           </Link>
         </Route>
-        <Route path="/test-task/employees">
+        <Route path="/employees">
           <main className="App">
             <Employees />
             <EmployeesBirthday />
